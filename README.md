@@ -1,16 +1,17 @@
-## Hi there 👋
+##Boas Vindas ao meu perfil##
 
-<!--
-**thailiane/thailiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome e Thailiane Dias
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou desenvolvendo na linguagem japascript
+-Utilizo esse espaço para minha organizaçao e compartilha meus projetos e desenvolvimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Voce pode entra em contato comigo pelo email
+
+00001106382353sp@al.educacao.sp.gov.br
+
+
+ @thailianemeiriele
+ 
+
+ 
